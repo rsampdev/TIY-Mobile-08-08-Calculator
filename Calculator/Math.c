@@ -8,21 +8,21 @@
 
 #include "Math.h"
 
-double addition(int a, int b) {
+double add(double a, double b) {
     return a + b;
 }
 
 
-double subtraction(int a, int b) {
+double subtract(double a, double b) {
     return a - b;
 }
 
 
-double multiplication(int a, int b) {
-    return a * b;
+double multiply(double a, double b) {
+    return a + b;
 }
 
 
-double division(int a, int b) {
+double divide(double a, double b) {
     return a / b;
 }
