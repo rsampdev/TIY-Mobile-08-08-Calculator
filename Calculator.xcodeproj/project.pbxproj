@@ -9,7 +9,7 @@
 /* Begin PBXBuildFile section */
 		332B1F531D58F8D600113C96 /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = 332B1F521D58F8D600113C96 /* main.c */; };
 		332B1F5B1D58FC8700113C96 /* Math.c in Sources */ = {isa = PBXBuildFile; fileRef = 332B1F591D58FC8700113C96 /* Math.c */; };
-		332B1F611D59175500113C96 /* Calculations.c in Sources */ = {isa = PBXBuildFile; fileRef = 332B1F5F1D59175500113C96 /* Calculations.c */; };
+		332B1F641D59819100113C96 /* Calculations.c in Sources */ = {isa = PBXBuildFile; fileRef = 332B1F621D59819100113C96 /* Calculations.c */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -29,8 +29,8 @@
 		332B1F521D58F8D600113C96 /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
 		332B1F591D58FC8700113C96 /* Math.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = Math.c; sourceTree = "<group>"; };
 		332B1F5A1D58FC8700113C96 /* Math.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Math.h; sourceTree = "<group>"; };
-		332B1F5F1D59175500113C96 /* Calculations.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = Calculations.c; sourceTree = "<group>"; };
-		332B1F601D59175500113C96 /* Calculations.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Calculations.h; sourceTree = "<group>"; };
+		332B1F621D59819100113C96 /* Calculations.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = Calculations.c; sourceTree = "<group>"; };
+		332B1F631D59819100113C96 /* Calculations.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Calculations.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,8 +66,8 @@
 				332B1F521D58F8D600113C96 /* main.c */,
 				332B1F591D58FC8700113C96 /* Math.c */,
 				332B1F5A1D58FC8700113C96 /* Math.h */,
-				332B1F5F1D59175500113C96 /* Calculations.c */,
-				332B1F601D59175500113C96 /* Calculations.h */,
+				332B1F621D59819100113C96 /* Calculations.c */,
+				332B1F631D59819100113C96 /* Calculations.h */,
 			);
 			path = Calculator;
 			sourceTree = "<group>";
@@ -130,7 +130,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				332B1F531D58F8D600113C96 /* main.c in Sources */,
-				332B1F611D59175500113C96 /* Calculations.c in Sources */,
+				332B1F641D59819100113C96 /* Calculations.c in Sources */,
 				332B1F5B1D58FC8700113C96 /* Math.c in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
